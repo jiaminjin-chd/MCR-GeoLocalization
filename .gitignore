@@ -1,0 +1,17 @@
+__pycache__/
+*.pth
+*.safetensors
+*.pkl
+*.tar
+*.ckpt
+*.log
+*.out
+*.csv
+*.mat
+.idea/
+.ipynb_checkpoints/
+checkpoints*/
+results*/
+record/
+visualizations/
+model/
